@@ -4,3 +4,10 @@ git config --global user.name “Nombre”: Le indicas a git el nombre del usuar
 git config --global user.email correo : Le indicas a git tu correo electrónico.
 git config --global core.editor “code --wait” : Indica el tipo de editor de código.
 git config --global core.autocrlf true
+git config --global -e : Muestra el historial de configuraciones.
+
+Luego aprendimos como ubicarnos y movernos desde la terminal bash con los comandos:
+ls: Para listar las carpetas o documentos dentro de determinado archivo y así ubicarnos dentro del explorador de archivos
+pws: Indicará el archivo o directorio donde te encuentras
+cd: Nos permite entrar o mover a la carpeta que seleccionemos 
+cd .. Con este comando salimos de la carpeta devolviendonos 
