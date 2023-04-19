@@ -1,1 +1,6 @@
-Clase 1
+clase 1
+Para iniciar git correctamente debemos realizar la configuración global que se realiza con los siguientes comandos:
+git config --global user.name “Nombre”: Le indicas a git el nombre del usuario.
+git config --global user.email correo : Le indicas a git tu correo electrónico.
+git config --global core.editor “code --wait” : Indica el tipo de editor de código.
+git config --global core.autocrlf true
