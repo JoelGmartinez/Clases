@@ -11,3 +11,12 @@ ls: Para listar las carpetas o documentos dentro de determinado archivo y así u
 pws: Indicará el archivo o directorio donde te encuentras
 cd: Nos permite entrar o mover a la carpeta que seleccionemos 
 cd .. Con este comando salimos de la carpeta devolviendonos 
+
+Crear y eliminar carpetas y documentos
+mkdir: se usa para crear carpeta 
+mrdir: Para eliminar carpeta vacia
+mr -r: eliminar carpeta con contenido
+touch: es para crear documentos 
+mr: elimina documentos
+Ls --a: muestra las carpetas ocultas
+
