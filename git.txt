@@ -20,3 +20,11 @@ touch: es para crear documentos
 mr: elimina documentos
 Ls --a: muestra las carpetas ocultas
 
+realizar comentarios en git
+Antes de realizar un comentario debes seleccionar el documento a comentar 
+con git add luego con el comando git commit -m "" realizamos el commit
+para verificar que esté correcto podemos utilizar los comandos 
+git log que lista los comentarios hechos deforma detallada
+git log --oneline lista de forma simple los comentarios hechos
+
+
